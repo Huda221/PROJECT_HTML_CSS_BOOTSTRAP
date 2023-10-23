@@ -1,0 +1,2187 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Inter:wght@300&family=Montserrat:wght@200&family=Nanum+Gothic&family=Nunito+Sans:opsz,wght@6..12,300&family=Oswald&family=Roboto+Condensed:wght@700&family=Roboto:wght@300&display=swap');
+.headsection
+{
+    background-image: url(images/background.png);
+    background-size: 100% 100%;
+    height: auto;
+}
+.logo
+{
+    width: 50%;
+    margin: 15px 0px;
+}
+.menu
+{
+    display: inline-flex;
+    list-style: none;
+    color: white;
+    font-size: 14px;
+    float: right;
+    margin: 15px 0px;
+    font-family: 'Nanum Gothic', sans-serif;
+
+}
+.menu li
+{
+    padding: 15px 20px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.menu li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.helmet
+{
+    width: 90%;
+}
+.title1
+{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    line-height: 0;
+    margin-bottom: 7px;
+    margin-top: 60px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.heading1
+{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 83px;
+    color: white;
+    font-weight: bolder;
+    line-height: 1;
+}
+.para1
+{
+    color: white;
+    font-size: 16px;
+    margin-top: 25px;
+    padding-bottom: 175px;
+    font-family: 'Nanum Gothic';
+}
+.heading3
+{
+    font-family: 'Nanum Gothic';
+    font-weight: 700;
+    color: #5a5859;
+    margin-top: 5%;
+    font-size: 37px;
+}
+.para3
+{
+    font-family: 'Nanum Gothic';
+    color: #b6b6b6;
+    font-size: 15px;
+}
+.icons
+{
+    margin-top: 9%;
+    margin-left: 60%;
+}
+.icons i
+{
+    color: #b6b6b6;
+    font-size: 36px;
+    margin: 10px;
+}
+.slider
+{
+    margin-top: 5%;
+}
+.section 
+{
+    margin-top: 5%;
+}
+.heading4
+{
+    color: #f19800;
+    font-size: 15px;
+    margin-top: 30px;
+    font-family: 'Nanum Gothic';
+}
+.head1
+{
+    font-weight: 700;
+    color: #5a5859;
+    font-size: 46px;
+    line-height: 1;
+    font-family: 'Nanum Gothic';
+}
+
+.b
+{
+    background-color: #f19800;
+    border-radius: inherit;
+    color: #fff;
+    margin-top: 10px;
+    width: 65%;
+    border: 1px solid #f19800;
+    padding: 8px;
+    font-family: 'Nanum Gothic';
+}
+.image
+{
+    width: 100%;
+}
+.portion
+{
+    margin-top: 5%;
+}
+.producthead
+{
+    font-family: 'Nanum Gothic';
+    color: #5a5859;
+    font-size: 35px;
+    font-weight: 600;
+}
+.producthr
+{
+    font-family: 'Nanum Gothic';
+    width: 6%;
+    border: 2px solid #f19800;
+    margin-bottom: 4%;
+    margin-top: 3%;
+}
+.top
+{
+    width: 80%;
+}
+.images
+{
+    width: 100%;
+}
+.content
+{
+    text-align: center;
+    margin-top: 15px;
+}
+.content h6 
+{
+    color: #b6b6b6;
+    font-size: 15px;
+}
+.content h3
+{
+    color: #5a5859;
+    font-size: 24px;
+    line-height: 0.5;
+}
+.content h4
+{
+    color: #f19800;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.content p
+{
+    color: #b6b6b6;
+    margin-top: 25px;
+    font-size: 13px;
+    margin-bottom: 25px;
+}
+.card
+{
+    margin-bottom: 20px;
+}
+.orangebg
+{
+    background-image: url(images/Bgorange.png);
+    background-size: 100% 100%;
+    height: auto;
+}
+.series
+{
+    margin-top: 15%;
+    color: #fff;
+    width: 85%;
+    margin-left: 15%;
+}
+.series h1
+{
+    font-size: 35px;
+    font-weight: 800;
+}
+.series hr
+{
+    border: 2px solid #fff;
+    width: 10%;
+    margin-top: 30px;
+}
+.series p
+{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+.time
+{
+    margin-left: -45px;
+}
+.time ul
+{
+    list-style-type: none;
+    display: flex;
+}
+.time ul li
+{
+    margin: 15px;
+}
+.day
+{
+    margin-top: -22px;
+}
+.day ul
+{
+    list-style-type: none;
+    display: flex;
+    margin-left: -50px;
+}
+.day ul li
+{
+    margin: 22px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.series button
+{
+    padding: 10px;
+    border: 2px solid #fff;
+    background-color: #f19800;
+    color: #fff;
+    width: 50%;
+}
+.orangebg img
+{
+    width: 100%;
+    margin-top: 20%;
+}
+.contents
+{
+    margin-top: 0px;
+}
+.imgs img
+{
+    width: 80%;
+}
+.slide
+{
+    margin-top: 5%;
+}
+.cont h1
+{
+    color: #f19800;
+    font-size: 100px;
+}
+.cont p
+{
+    font-size: 18px;
+    width: 100%;
+    color: #5a5859;
+    font-weight: bold;
+    margin-top: 10%;
+    line-height: 2;
+    font-family: 'Nanum Gothic';
+}
+.slide .line
+{
+    display: flex;
+}
+.slide .line h5
+{
+    font-size: 15px;
+    color: #f19800;
+    margin: 10px;
+}
+.slide .line .in 
+{
+    color: #b6b6b6;
+}
+.slide .img 
+{
+    width: 115%;
+}
+.slide img
+{
+    width: 100%;
+}
+.foot
+{
+    background-image: url(images/footer.png);
+    background-size: 100% 100%;
+    height: 112px;
+}
+.foot .logo
+{
+    width: 40%;
+}
+.foot .menu 
+{
+    padding-top: 15px;
+}
+.foot .menu li
+{
+    padding: 10px 30px;
+}
+.footer
+{
+    margin-top: 22px;
+}
+.cntnt 
+{
+    display: flex;
+}
+.cntnt p
+{
+    color: #b6b6b6;
+    font-size: 15px;
+    font-family: 'Nanum Gothic';
+    margin-left: 52px;
+}
+.p p
+{
+    color: #b6b6b6;
+    font-family: 'Nanum Gothic';
+    font-size: 15px;
+}
+.card:hover
+{
+    box-shadow: 0px 0px 10px 10px #f6f6f6;
+}
+.topimage
+{
+    height: 250px;
+    width: 100%;
+    background-size: 100% 100%;
+    border-bottom: 1px solid #f7f2f2;
+}
+.buttons
+{
+    height: 250px;
+    background-color: #00000069;
+    display: none;
+
+}
+.card:hover .buttons
+{
+    display: block;
+}
+.buttons a
+{
+    font-size: 12px;
+    text-decoration: none;
+    color: #000;
+    background-color: #fff;
+    padding: 10px;
+    margin-right: 5px;
+    margin-top: 95px;
+    float: left;
+}
+.buttons .addcart
+{
+    margin-left:60px;
+}
+.fa-solid
+{
+    color: #fff !important;
+}
+.mobmenu
+{
+    float: right;
+    margin-top: 30px;
+    display: none;
+}
+.option
+{
+    display: inline-flex;
+    list-style: none;
+    color: white;
+    font-size: 14px;
+    float: right;
+    margin: 20px 0px;
+    font-family: 'Nanum Gothic', sans-serif;
+
+}
+.option li
+{
+    padding: 15px 20px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.option li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Aboutpage */
+
+.aboutheadsection
+{
+    background-image: url(images/aboutpictures/aboutheader.png);
+    background-size: 100% 100%;
+    height: auto;
+}
+.abouth1
+{
+    padding-bottom: 260px;
+}
+.abouth1 h1
+{
+    text-align: center;
+    margin-top: 4%;
+    color: #ffffff;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 85px;
+    font-weight: 900;
+}
+.aboutsection1 
+{
+    text-align: center;
+    margin-top: 5%;
+}
+.aboutsection1 h3 
+{
+    color: #f19800;
+    font-size: 18px;
+    line-height: 0.5;
+    font-family: 'Nanum Gothic';
+    font-weight: 900;
+}
+.aboutsection1 h1 
+{
+    color: #5a5859;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 900;
+    line-height: 1;
+    font-size: 45px;
+}
+.aboutsection1 hr
+{
+    width: 6%;
+    border: 2px solid #f19800;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-left: 47%;
+}
+.aboutsection1 p 
+{
+    margin: 0px 55px;
+    font-size: 15px;
+    color: #b6b6b6;
+    line-height: 1.5;
+}
+.aboutsection2 
+{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.about2
+{
+    margin-top: 5%;
+    margin-right: -100px;
+}
+.about2 .card
+{
+    margin-left: 7%;
+    margin-top: 7%;
+    text-align: left;
+    z-index: 1;
+    position: relative;
+
+}
+.about2 h3 
+{
+    margin-top: 40px;
+    color: #f19800;
+    font-size: 18px;
+    line-height: 0.5;
+    font-family: 'Nanum Gothic';
+    font-weight: 900;
+    margin-left: 30px;
+}
+.about2 h1 
+{
+    color: #5a5859;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 900;
+    line-height: 1;
+    font-size: 40px;
+    margin-left: 30px;
+}
+.about2 hr
+{
+    width: 10%;
+    border: 2px solid #f19800;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-left: 6%;
+}
+.about2 .big 
+{
+    margin-left: 30px;
+    width: 80%;
+    font-size: 25px;
+    color: #5a5859;
+    font-weight: 900;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 1.5;
+}
+.about2 p 
+{
+    width: 90%;
+    font-size: 14px;
+    color: #b6b6b6;
+    line-height: 2;
+    margin-top: 2%;
+    font-family: 'Nanum Gothic';
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+.aboutsection2 img
+{
+    width: 115%;
+    border-radius: 5px;
+}
+.aboutsection2 .im 
+{
+    margin-left: 40px;
+}
+.aboutsection3
+{
+    background-image: url(images/aboutpictures/aboutpic2.png);
+    background-size: 100% 100%;
+    height: auto;
+    padding-bottom: 10%;
+}
+.aboutsection3 
+{
+    text-align: center;
+    margin-top: 5%;
+}
+.aboutsection3 h3 
+{
+    color: #fff;
+    font-size: 18px;
+    line-height: 0.5;
+    font-family: 'Nanum Gothic';
+    font-weight: 900;
+    margin-top: 10%;
+}
+.aboutsection3 h1 
+{
+    color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 900;
+    line-height: 1;
+    font-size: 45px;
+}
+.aboutsection3 hr
+{
+    width: 6%;
+    border: 2px solid #fff;
+    margin-bottom: 4%;
+    margin-top: 4%;
+    margin-left: 47%;
+}
+.about3 img
+{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.about3 .aboutcontent
+{
+    margin-top: 8%;
+}
+.about3 .aboutcontent h1
+{
+    color: #5a5859;
+    font-size: 40px;
+}
+.about3 .aboutcontent p
+{
+    color: #b6b6b6;
+    line-height: 2;
+    font-family: 'Nanum Gothic';
+    margin: 43px;
+    font-size: 15px;
+}
+.aboutsection4 .images
+{
+    width: 125%;
+    margin-left: -25%;
+}
+.aboutsection4
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.aboutsection4 h3 
+{
+    color: #f19800;
+    font-size: 18px;
+    line-height: 0.5;
+    font-family: 'Nanum Gothic';
+    font-weight: 900;
+}
+.aboutsection4 h1 
+{
+    color: #5a5859;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 900;
+    line-height: 1;
+    font-size: 45px;
+    width: 50%;
+}
+.aboutsection4 hr
+{
+    width: 10%;
+    border: 2px solid #f19800;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+.aboutsection4 .about4 img
+{
+    width: 107%;
+    margin-top: 45%;
+    position: relative;
+    z-index: 1;
+}
+.aboutsection4 .icons
+{
+    margin-left: 0;
+}
+.aboutsection4 .icons i
+{
+    margin: 0px;
+}
+.end 
+{
+    background-image: url(images/aboutpictures/aboutfoot.png);
+    background-size: 100% 100%;
+    height: auto;
+    text-align: center;
+    padding-bottom: 8%;
+}
+.end h1
+{
+    margin-top: 15%;
+    color: #ffffff;
+    font-family: 'Roboto Condensed';
+    font-size: 50px;
+}
+.end p
+{
+    color: #fff;
+    font-family: 'Nanum Gothic';
+    width: 37%;
+    margin-left: 31%;
+    font-size: 15px;
+    margin-top: 2%;
+}
+.end button
+{
+    background-color: #f19800;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Nanum Gothic';
+    margin-top: 50px;
+    width: 25%;
+    padding: 12px;
+}
+
+/* Trust page */
+
+.trustheadsection
+{
+    background-image: url(images/trust/Trustheader.png);
+    background-size: 100% 100%;
+    height: auto;
+    padding-bottom: 5%;
+}
+.trusthead 
+{
+    margin: 25px 0px;
+}
+.trustheadsection .logo
+{
+    width: 30%;
+    margin: 8px 0px;
+
+}
+.trustheadsection h1
+{
+    font-size: 62px;
+    margin-top: 20%;
+    line-height: 1;
+    font-family: 'Roboto Condensed';
+    color: #5a5859;
+}
+.trustheadsection p 
+{
+    color: #b6b6b6;
+    font-size: 15px;
+    margin-top: 10%;
+}
+.trustheadsection button 
+{
+    color: #fff;
+    background-color: #f19800;
+    width: 55%;
+    padding: 10px;
+    border: 2px solid #f19800;
+    font-size: 18px;
+    margin-top: 8%;
+}
+.trustheadsection button i
+{
+    margin-left: -5%;
+}
+.aboutsection1 .para 
+{
+    margin: 0 195px;
+}
+.trustsection1 
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.trustsection1 img 
+{
+    width: 100%;
+    margin-left: 24px;
+}
+.trustsection1 .card 
+{
+    margin-top: 20px;
+}
+.trustsection1 .content
+{
+    text-align: left;
+    margin-left: 15%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    margin-right: 10%;
+}
+.trustsection1 .content h1 
+{
+    color: #5a5859;
+    font-family: 'Roboto Condensed';
+    font-size: 48px;
+}
+.trustsection1 .content p 
+{
+    font-size: 14px;
+}
+.trustsection1 .check 
+{
+    display: inline-flex;
+}
+.trustsection1 .check .p 
+{
+    color: #f19800;
+    margin-right: 10px;
+}
+.trustsection1 .check p 
+{
+    color: #5a5859;
+    font-size: 17px;
+    font-family: 'Nanum Gothic';
+    font-weight: 900;
+}
+.trustsection2 
+{
+    background-image: url(images/trust/orangebg.png);
+    background-size: 100% 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 5%;
+}
+.trustsection2 h3 
+{
+    color: #fff;
+    font-size: 18px;
+    line-height: 0.5;
+    font-family: 'Nanum Gothic';
+    font-weight: 900;
+    margin-top: 10%;
+}
+.trustsection2 h1 
+{
+    color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 900;
+    line-height: 1;
+    font-size: 45px;
+}
+.trustsection2 hr
+{
+    width: 6%;
+    border: 2px solid #fff;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-left: 47%;
+}
+.trustsection2 p 
+{
+    margin: 0px 200px;
+    font-size: 15px;
+    color: #fff;
+    line-height: 1.5;
+    margin-bottom: 8%;
+}
+.trust2 .card 
+{
+    margin-bottom: 35%;
+    text-align: left;
+}
+.trust2 .card img 
+{
+    margin-left: 15%;
+}
+.trust2 .card h1 
+{
+    color: #5a5859;
+    margin-top: 15%;
+    font-size: 44px;
+}
+.trust2 .card p 
+{
+    color: #f19800;
+    margin: 0;
+    font-size: 13px;
+}
+.trustsection3 
+{
+    margin-top: 5%;
+}
+.trustsection3 h3 
+{
+    color: #f19800;
+    font-size: 18px;
+    line-height: 0.5;
+    font-family: 'Nanum Gothic';
+    font-weight: 900;
+    margin-top: 10%;
+}
+.trustsection3 h1 
+{
+    color: #5a5859;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 900;
+    line-height: 1;
+    font-size: 45px;
+    margin-right: 30%;
+}
+.trustsection3 hr 
+{
+    width: 12%;
+    border: 2px solid #f19800;
+    margin-bottom: 4%;
+    margin-top: 4%;
+    margin-left: 0%;
+}
+.trustsection3 .big 
+{
+    color: #959595;
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 26%;
+}
+.trustsection3 p 
+{
+    color: #b6b6b6;
+    margin-right: 15%;
+    font-size: 15px;
+    margin-top: 5%;
+}
+.trustsection3 img
+{
+    width: 85%;
+}
+.trustsection4 img 
+{
+    margin-left: 40%;
+}
+.trustsection4 img:hover
+{
+    box-shadow: 0px 0px 10px 10px #f6f6f6;
+}
+.trustheadsection .fa-bars
+{
+    color: #f19800 !important;
+}
+
+/* Contact Page */
+.contacthead
+{
+    background-image: url(images/contact/contacthead.png);
+    background-size: 100% 100%;
+    height: auto;
+    padding-bottom: 18%;
+}
+.contactcntnt
+{
+    text-align: center;
+}
+.contactcntnt h1 
+{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 55px;
+    color: #fff;
+    margin-top: 2%;
+}
+.contactcntnt hr 
+{
+    border: 2px solid #fff;
+    width: 6%;
+    margin-left: 47%;
+}
+.contactcntnt p 
+{
+    font-family: 'Nanum Gothic';
+    font-size: 15px;
+    width: 65%;
+    margin-left: 15%;
+    color: #fff;
+    margin-top: 4%;
+}
+.contactsec 
+{
+    margin-top: -12%;
+}
+.contactsection 
+{
+    background-image: url(images/contact/Contactform.png);
+    background-size: 100% 100%;
+    height: auto;
+    padding-bottom: 5%;
+    padding-top: 4%;
+    padding-left: 1%;
+}
+.contactsection h1 
+{
+    font-family: 'Roboto Condensed';
+    color: #fff;
+    margin: 35px;
+    font-size: 40px;
+}
+.contactsection p 
+{
+    color: #fff;
+    font-family: 'Nanum Gothic';
+    margin-right: 85px;
+    margin-left: 8%;
+    font-size: 15px;
+    margin-top: -2%;
+}
+.contactsection hr 
+{
+    width: 15%;
+    margin-left: 8%;
+    border: 2px solid #fff;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.contactrow i
+{
+    font-size: 35px;
+    margin-left: 35%;
+    margin-top: 15%;
+    color: #fff;
+}
+.contactrow p 
+{
+    font-family: 'Nanum Gothic';
+    margin-top: 5%;
+    color: #fff;
+    margin-right: 17%;
+    font-size: 16px;
+}
+.contactcol h1
+{
+    color: #5a5859;
+}
+.contactcol input
+{
+    border: none;
+    border-bottom: 1px solid #959595;
+    margin: 35px;
+    width: 80%;
+    font-size: 20px;
+}
+.colname input
+{
+    width: 91%;
+}
+.contactcol button 
+{
+    float: right;
+    border: none;
+    margin-right: 3%;
+    background-color: #f19800;
+    color: #fff;
+    width: 25%;
+    padding: 1%;
+    font-size: 17px;
+    margin-top: 2%;
+}
+.contactsection:hover
+{
+    box-shadow: 0px 0px 10px 10px #f6f6f6;
+}
+.colfoot 
+{
+    margin-top: 10%;
+}
+
+/* Faqs Section Start Here*/
+
+.faqsheadsection
+{
+    background-image: url(images/faqs/faqshead.png);
+    background-size: 100% 100%;
+    height: auto;
+}
+.faqh1 h1
+{
+    font-size: 75px;
+    margin-top: 5%;
+}
+.faqsection1 
+{
+    margin-top: 0px;
+}
+.faqsection1  h3
+{
+    font-size: 20px;
+}
+.faqsection1 h1 
+{
+    font-size: 50px;
+    margin-top: 15px;
+}
+.faqsection2 .card 
+{
+    margin-top: 2%;
+}
+.faqsection2 
+{
+    margin-top: 5%;
+}
+.faqsection2 .producthead 
+{
+    font-weight: 900;
+}
+.faqrow p
+{
+    font-family: 'Nanum Gothic';
+    font-size: 18px;
+    font-weight: 900;
+    color: #5a5859;
+    margin: 30px;
+    margin-bottom: 0px;
+}
+.faqrow .minus 
+{
+    float: right;
+    font-size: 30px;
+    margin-right: 25%;
+    color: #5a5859;
+    padding-bottom: 15px;
+    margin-top: 25px;
+}
+.faqrow .faqhr 
+{
+    width: 98%;
+    margin-left: 11px;
+}
+.faqrow1 
+{
+    margin: 20px;
+    color: #959595;
+    font-family: 'Nanum Gothic';
+    padding: 30px;
+}
+.faqrow1 p 
+{
+    font-size: 15px;
+    line-height: 1.7;
+}
+.faqrow1 ul 
+{
+    margin-top: 4%;
+    line-height: 1.7;
+}
+.faqrow1 .faqp 
+{
+    margin-top: 4%;
+}
+.faqend 
+{
+    background-image: url(images/faqs/faqfoot.png);
+    background-size: 100% 100%;
+    height: auto;
+    padding-bottom: 6%;
+    margin-top: 8%;
+}
+.faqend h1 
+{
+    margin-top: 10%;
+}
+
+/* Products Page styling */
+.productheadsection
+{
+    background-image: none;
+}
+.productheadsection img 
+{ 
+    width: 40%;
+
+}
+.productheadset .menu li a
+{
+    color: #5a5859;
+    font-weight: bolder;
+}
+.productsec1
+{
+    margin-top: 2%;
+}
+.productrow 
+{
+    width: 90%;
+    padding-left: 10%;
+}
+.productcontent .p 
+{
+    float: left;
+    color: #f19800;
+    margin-right: 1%;
+    font-weight: 600;
+}
+.productcontent p 
+{
+    color: #b6b6b6;
+}
+.productcontent hr
+{
+    border: 1px solid #b6b6b6;
+}
+
+.productrow2
+{
+    width: 90%;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+.productrow2 .part1 .smallimg img
+{
+    width: 76%;
+    margin-bottom: 5px;
+}
+.productrow2 .part1 .bigimg img
+{
+    width: 105%;
+    margin-left: -30px;
+}
+.productrow2 .part2 
+{
+    padding-left: 10%;
+}
+.productrow2 .part2 h1 
+{
+    font-size: 30px;
+    color: #5a5859;
+    font-weight: 700;
+}
+.productrow2 .part2 h5 
+{
+    font-size: 18px;
+    color: #f19800;
+}
+.productrow2 .part2 p 
+{
+    font-size: 13px;
+    line-height: 1.6;
+    margin-top: 8%;
+    color: #b6b6b6;
+    width: 102%;
+}
+.productrow2 .part2 h3
+{
+    font-size: 16px;
+    color: #5a5859;
+    font-weight: 700;
+    margin-top: 8%;
+}
+.productrow2 .part2 input 
+{
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+.productrow2 .part2 .content 
+{
+    display: flex;
+}
+.productrow2 .part2 .content p
+{
+    float: left;
+    margin-top: 2%;
+    font-size: 16px;
+    font-weight: 900;
+    color: #5a5859;
+    width: 27%;
+}
+.productrow2 .part2 .content .pp
+{
+    line-height: 1;
+    margin-top: 11px;
+    font-size: 16px;
+    color: #f19800;
+    font-weight: 700;
+    margin-left: 8px;
+    width: 28%;
+}
+.productrows
+{
+    padding-top: 6%;
+}
+.productrows h1 
+{
+    color: #f19800;
+    font-size: 25px;
+}
+.productrows p 
+{
+    color: #b6b6b6;
+    font-size: 14px;
+    margin-right: 10%;
+    padding-bottom: 12%;
+}
+.productrows img
+{
+    width: 100%;
+    margin-top: -22%;
+    padding-bottom: 5%;
+}
+.productrows ul 
+{
+    list-style-type: none;
+}
+.productrows ul li 
+{
+    font-size: 14px;
+    margin-left: -4%;
+    color: #b6b6b6;
+}
+.productrows ul li::marker
+{
+    content: '✓';
+    color: #f19800;
+}
+.prosec 
+{
+    background-image: url(images/product/rectangle.png);
+    height: auto;
+    background-size: 100% 100%;
+    margin-top: 8%;
+}
+.prosec .productrow 
+{
+    padding-top: 6%;
+}
+.prosec .productrow h1 
+{
+    color: #fff;
+    font-size: 42px;
+    font-weight: 800;
+}
+.prosec .productrow p 
+{
+    padding-bottom: 0%;
+    color: #fff;
+    font-size: 24px;
+}
+.prosec .productrow img 
+{
+    width: 90%;
+    margin-left: 15%;
+    padding-bottom: 0%;
+}
+.productheadsection .mobmenu .fa-solid
+{
+    color: #000 !important;
+}
+@media only screen and (max-width:500px)
+ {
+    .menu 
+    {
+        display: block;
+        background-color: #fff;
+        color: #f19800;
+        z-index: 1;
+        position: absolute;
+        list-style: none;
+        width: 45%;
+        margin-top: 20%
+    }
+    .mobmenu
+    {
+        display: block;
+    }
+    .menu 
+    {
+        display: none;
+    }
+    .menu li a 
+    {
+        color: #f19800;
+        font-size: 15px;
+    }
+    .headsection
+    {
+        background-image: url(images/headresponsive.png);
+    }
+    .para1
+    {
+        padding-bottom: 25px;
+    }
+    .heading1
+    {
+        font-size: 50px;
+    }
+    .heading3
+    {
+        font-size: 22px;
+    }
+    .para3
+    {
+        font-size: 10px;
+    }
+    .icons
+    {
+        margin-left: 30%;
+    }
+    .icons i 
+    {
+        font-size: 22px;
+        margin: 0px;
+    }
+    .response
+    {
+        text-align: center;
+        margin-left: 5px;
+    }
+    .head1
+    {
+        font-size: 30px;
+    }
+    .b
+    {
+        width: 100%;
+        padding: 5px;
+    }
+    .producthead
+    {
+        font-size: 28px;
+        margin-top: 5%;
+    }
+    .producthr
+    {
+        width: 17%;
+        margin-top: 8%;
+        margin-bottom: 10%;
+    }
+    .content h6 
+    {
+        font-size: 12px;
+    }
+    .content h3 
+    {
+        line-height: 1;
+    }
+    .content h4 
+    {
+        margin-bottom: 9px;
+        margin-top: 5px;
+        font-size: 16px;
+    }
+    .content p 
+    {
+        margin-top: 11px;
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+    .card
+    {
+        width: 115%;
+        margin-bottom: 5px;
+        margin-left: -8px;
+    }
+    .imgs img 
+    {
+        width: 100%;
+    }
+    .slide img 
+    {
+        display: none;
+    }
+    .cont h1 
+    {
+        font-size: 120px;
+    }
+    .cont p 
+    {
+        margin-top: 5%;
+        font-size: 22px;
+        line-height: 1.5;
+    }
+    .slide .line
+    {
+        margin-bottom: 10%;
+    }
+    .orangebg
+    {
+        background-image: url(images/responsive2.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .series
+    {
+
+        margin-left: 0;
+        margin-top: 35%;
+        width: 93%;
+    }
+    .series h1 
+    {
+        font-size: 22px;
+    }
+    .series hr 
+    {
+        width: 15%;
+    }
+    .series p 
+    {
+        font-size: 11px;
+    }
+    .time ul li 
+    {
+        margin: 10px;
+    }
+    .day ul li 
+    {
+        margin: 15px;
+        font-size: 12px;
+    }
+    .series button 
+    {
+        width: 100%;
+    }
+    .foot
+    {
+        height: 470px;
+    }
+    .option
+    {
+        display: flex;
+        flex-direction: column;
+        margin-right: 75px;
+    }
+    .foot .logo
+    {
+        margin-left: 30%;
+        padding-top: 25px;
+    }
+    .p p 
+    {
+        text-align: center;
+    }
+    .cntnt p 
+    {
+        font-size: 12px;
+        margin-left: 32px;
+    }
+    .topimage
+    {
+        height: 135px;
+    }
+    .buttons
+    {
+        height: 135px;
+    }
+    .buttons .addcart {
+        margin-left: 25px;
+    }
+    .buttons a 
+    {
+        padding: 3px;
+        margin-top: 60px;   
+    }
+    .aboutheadsection
+    {
+        background-image: url(images/aboutpictures/Responsiveheader.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .aboutheadsection h1 
+    {
+        font-size: 74px;
+        margin-top: 6%;
+    }
+    .abouth1 
+    {
+        padding-bottom: 150px;
+    }
+    .abouth1 h1 
+    {
+        font-size: 74px;
+        margin-top: 30%;
+    }
+    .logo
+    {
+        width: 60%;
+    }
+    .aboutsection1
+    {
+        margin-top: 30%;
+    }
+    .aboutsection1 hr 
+    {
+        width: 20%;
+        margin-left: 40%;
+    }
+    .aboutsection1 p 
+    {
+        margin: 5px;
+        font-size: 12px;
+        margin-top: 10%;
+    }
+    .aboutsection2 .im
+    {
+       margin-left: 0px;
+    }
+    .about2 .card 
+    {
+        margin-left: 0%;
+        border: none;
+    }
+    
+    .about2 h3 
+    {
+        margin-left: 0px;
+    } 
+    .about2 h1
+    {
+        margin-left: 0px;
+    } 
+    .about2 hr
+    {
+        margin-left: 0px;
+        width: 20%;
+    } 
+    .about2 .big 
+    {
+        margin-left: 0px;
+        width: 100%;
+        font-size: 23px;
+    }
+    .about2 p 
+    {
+        width: 100%;
+        font-size: 11px;
+        margin-bottom: 25px;
+        margin-left: 0px;
+    }
+    .aboutsection2 img 
+    {
+        width: 100%;
+    }
+    .aboutsection3
+    {
+        background-image: url(images/aboutpictures/Orangeresponsive.png);
+        background-size: 100% 100%;
+        height: auto;
+        padding-bottom: 50%;
+    }
+    .aboutsection3 h3 
+    {
+        margin-top: 50%;
+    }
+    .aboutsection3 h1 
+    {
+        margin-top: 8%;
+    }
+    .aboutsection3 hr 
+    {
+        width: 20%;
+        margin-left: 40%;
+    }
+    .cards
+    {
+        width: 100%;
+        margin-bottom: 5px;
+        border: #fff;
+        margin-left: 0px;
+    }
+    .about3 .aboutcontent p {
+        margin: 10px;
+        margin-bottom: 35px;
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .aboutsection4 
+    {
+        margin-top: 30%;
+    }
+    .aboutsection4 .aboutt4 
+    {
+        text-align: center;
+    }
+    .aboutsection4 h1 
+    {
+        width: 100%;
+        margin-top: 10%;
+    }
+    .aboutsection4 hr 
+    {
+        margin-left: 35%;
+        margin-top: 10%;
+        width: 30%;
+    }
+    .aboutsection4 .about4 img {
+        width: 115%;
+        margin-left: -8px;
+    }
+    .aboutsection4 .images {
+        width: 107%;
+        margin-top: 10%;
+        margin-left: -8px;
+    }
+    .end 
+    {
+        background-image: url(images/aboutpictures/footresponsive.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .end h1 
+    {
+        margin-top: 34%;
+        font-size: 45px;
+    }
+    .end p {
+        width: 100%;
+        margin-left: 0%;
+        font-size: 11px;
+        margin-top: 10%;
+    }
+    .end button {
+        width: 100%;
+        margin-top: 12%;
+    }
+    .trustheadsection 
+    {
+        background-image: url(images/trust/headerresponsive.png);
+        background-size: 100% 100%;
+        height: auto;
+        padding-bottom: 120%;
+    }
+    .trusthead .menu li 
+    {
+        padding: 15px 10px;
+    }
+    .trusthead .menu
+    {
+        width: 47%;
+    }
+    .trustheadsection .mobmenu
+    {
+        display: block;
+    }
+    .trusthead 
+    {
+        margin-left: -35%;
+    }
+    .trustheadsection .fa-bars
+    {
+        margin-left: 730%;
+    }
+    .trustheadsection h1 
+    {
+        margin-top: 5%;
+        font-size: 55px;
+    }
+    .trustheadsection p 
+    {
+        font-size: 11px;
+    }
+    .trustheadsection button 
+    {
+        margin-top: 2%;
+        width: 72%;
+        font-size: 15px;
+        padding: 6px;
+    }
+    .repo
+    {
+        margin-top: 10%;
+    }
+    .repo h1
+    {
+        font-size: 40px;
+        line-height: 1.5;
+    }
+    .repo .para 
+    {
+        margin: -5px;
+        color: #959595;
+        line-height: 1.5;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+    .trustsection1 img 
+    {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .trustsection1 .card 
+    {
+        width: 110%;
+        border: none;
+    }
+    .trustsection1 .card:hover
+    {
+        box-shadow: none;
+    }
+    .trustsection1 .content 
+    {
+        margin-left: 0%;
+        margin-right: 5%;
+    }
+    .trustsection1 .content h1
+    {
+        font-size: 35px;
+    }
+    .trustsection1 .content p
+    {
+        color: #959595;
+        font-size: 12px;
+    }
+    .trustsection1 .check p
+    {
+        color: #5a5859;
+    }
+    .trustsection2
+    {
+        background-image: url(images/trust/Orangeresponsive.png);
+        background-size: 100% 100%;
+        height: auto;
+        padding-bottom: 10%;
+    }
+    .trustsection2 h3 
+    {
+        margin-top: 25%;
+    }
+    .trustsection2 h1 
+    {
+        font-size: 40px;
+    }
+    .trustsection2 hr 
+    {
+        width: 18%;
+        margin-left: 40%;
+        margin-top: 8%;
+    }
+    .trustsection2 p
+    {
+        margin: -15px;
+        font-size: 13px;
+        margin-bottom: 10%;
+        margin-top: 10%;
+    }
+    .trust2 .card
+    {
+        width: 105%;
+        margin-bottom: 10%;
+    }
+    .trust2 .card img 
+    {
+        width: 130%;
+        margin-top: 5%;
+    }
+    .trust2 .card h1
+    {
+        font-size: 40px;
+        margin-top: 8%;
+        margin-left: 12%;
+    }
+    .trust2 .card p
+    {
+        margin-left: 12%;
+        margin-top: -3%;
+    }
+    .repoo 
+    {
+        margin-top: 15%;
+    }
+    .repoo h1 
+    {
+        font-size: 35px;
+        line-height: 1;
+    }
+    .repoo hr 
+    {
+        margin-top: 15%;
+    }
+    .trustsection3 h1 
+    {
+        font-size: 40px;
+        margin-right: 0px;
+        line-height: 1.2;
+    }
+    .trustsection3 hr 
+    {
+        width: 20%;
+    }
+    .trustsection3 .big
+    {
+        margin-right: 0px;
+    }
+    .trustsection3 p
+    {
+        margin-right: 5px;
+        margin-right: 5px;
+        font-size: 11px;
+        line-height: 1.8;
+    }
+    .trustsection3 img
+    {
+        width: 100%;
+    }
+    .slider
+    {
+        width: 210%;
+    }
+    .contacthead
+    {
+        background-image: url(images/contact/responsive.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .contacthead .fa-bars
+    {
+        font-size: 22px;
+    }
+    .contactcntnt h1
+    {
+        font-size: 62px;
+    }
+    .contactcntnt hr
+    {
+        width: 30%;
+        margin-left: 35%;
+    }
+    .contactcntnt p
+    {
+        margin-left: 0;
+        width: 100%;
+        font-size: 14px;
+        margin-top: 8%;
+    }
+    .contactsection
+    {
+        background-image: url(images/contact/formresponsive.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .contactsection 
+    {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .contactsec 
+    {
+        margin-top: -17%;
+    }
+    .contactcol h1 
+    {
+        font-size: 28px;
+        margin: 26px;
+    }
+    .contactcol input 
+    {
+        font-size: 18px;
+        margin: 0px;
+        width: 100%;
+        margin-top: 15%;
+    }
+    .contactcol button 
+    {
+        margin-top: 20%;
+        width: 100%;
+        padding: 10px;
+        margin-right: 0;
+    }
+    .contactsection h1
+    {
+        margin: 15px;
+        font-size: 29px;
+        margin-top: 25%;
+    }
+    .contactsection p 
+    {
+        margin-right: 0px;
+        font-size: 14px;
+        margin-left: 2%;
+        margin-top: 8%;
+    }
+    .contactsection hr 
+    {
+        margin-left: 37%;
+        width: 20%;
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    .contactrow i 
+    {
+        font-size: 30px;
+        margin-left: 60%;
+        margin-top: 90%;
+    }
+    .contactrow p 
+    {
+        font-size: 14px;
+        margin-right: 15%;
+        margin-top: 23%;
+    }
+    .faqsheadsection
+    {
+        background-image: url(images/faqs/faqresponsive.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .faqh1 h1
+    {
+        font-size: 55px;
+        margin-top: 18%;
+    }
+    .faqsection1 
+    {
+        margin-top: 15%;
+    }
+    .faqsection1 h3
+    {
+        font-size: 18px;
+    }
+    .faqsection1 h1
+    {
+        font-size: 38px;
+    }
+    .faqsection1 hr 
+    {
+        margin-top: 12%;
+    }
+    .faqsection2 .card 
+    {
+        width: 107%;
+    }
+    .faqsection2 .producthead 
+    {
+        font-size: 25px;
+        font-weight: 800;
+    }
+    .faqrow .faqhr
+    {
+        width: 93%;
+    }
+    .faqrow p
+    {
+        margin: 15px;
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .faqrow .minus
+    {
+        margin-top: 18px;
+        margin-right: 50%;
+    }
+    .faqrow1 
+    {
+        margin: 0px;
+        padding: 9px;
+    }
+    .faqrow1 p 
+    {
+        font-size: 12px;
+        line-height: 1.8;
+    }
+    .faqrow1 ul
+    {
+        padding: 25px;
+    }
+    .faqrow1 ul li 
+    {
+        font-size: 12px;
+    }
+    .productheadsection img 
+    {
+        width: 25%;
+        margin-top: 2%;
+    }
+    .productrow 
+    {
+        width: 100%;
+        padding-left: 0%;
+    }
+    .productsec1 
+    {
+        margin-top: 0%;
+    }
+    .productcontent p 
+    {
+        font-size: 14px;
+    }
+    .productcontent hr 
+    {
+        width: 109%;
+    }
+    .productrow2 
+    {
+        width: 113%;
+        padding-left: 0%;
+    }
+    .productrow2 .part1 .hy 
+    {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .productrow2 .part1 .smallimg img
+    {
+        width: 23%;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .productrow2 .part1 .bigimg img
+    {
+        width: 97%;
+        margin-left: 0%;
+    }
+    .productrow2 .part2 
+    {
+        padding-left: 4%;
+        margin-top: 15%;
+    }
+    .productrow2 .part2 h1
+    {
+        font-size: 25px;
+    }
+    .productrow2 .part2 h5
+    {
+        font-size: 20px;
+    }
+    .productrow2 .part2 p
+    {
+        font-size: 12px;
+        line-height: 1.8;
+    }
+    .productrow2 .part2 .content .pp
+    {
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .productsec1 .abc p
+    {
+        font-size: 11px;
+    }
+    .productrows p 
+    {
+        font-size: 12px;
+        margin-right: -13%;
+        padding-bottom: 12%;
+        line-height: 1.9;
+    }
+    .productrows img 
+    {
+        width: 110%;
+        margin-top: 0%;
+    }
+    .prosec
+    {
+        background-image: url(images/product/proresponsive.png);
+        padding-top: 10%;
+        padding-bottom: 15%;
+    }
+    .prosec .productrow h1
+    {
+        font-size: 33px;
+        text-align: center;
+    }
+    .prosec .productrow p
+    {
+        font-size: 20px;
+        text-align: center;
+    }
+    .portion .sell 
+    {
+        text-align: center;
+    }
+    .portion .sell .producthr
+    {
+        margin-left: 40%;
+    }
+    .portion .none 
+    {
+        display: none;
+    }
+    .portion .display .card
+    {
+        width: 230%;
+        margin-bottom: 40%;
+    }
+    .portion .display .topimage 
+    {
+        height: 250px;
+    }
+    .portion .display .buttons
+    {
+        height: 250px;
+    }
+    .portion .display .buttons .addcart
+    {
+        margin-left: 95px;
+        margin-top: 110px;
+    }
+    .portion .display .buttons a 
+    {
+        margin-top: 110px;
+    }
+    .productheadsection
+    {
+        background-image: none;
+        box-shadow: 5px 5px 5px rgba(1,1,1,0.05);
+        margin-bottom: 12%;
+    }
+    .productheadset .mobmenu
+    {
+        margin: -90px;
+        margin-top: -45px;
+    }
+    .productheadset .menu 
+    {
+        margin-left: 70%;
+        margin-top: 0%;
+    }
+    .productheadset .menu li a
+    {
+        color: #f19800;
+    }
+
+}
+
